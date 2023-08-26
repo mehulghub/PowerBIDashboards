@@ -1,0 +1,29 @@
+Original data
+
+Male:3549
+M:1950-->1950/3549= 54%
+Y:754-->754/3549= 21%
+2Y:845-->845/3549= 24%
+
+Female:3483
+M:1925-->55%
+Y:718-->20%
+2Y:840-->24%
+
+
+
+Churned data
+
+Male:939
+M:813-->86%
+Y:91-->9%
+2Y:26-->4%
+
+Female:930
+M:842-->90%
+Y:75-->8%
+2Y:22-->2%
+
+.Monthly customers are more likely to churn
+.Female monthly customers are more likely to churn as compared to male customers
+.Male 2 yearly and yearly customers are more likely to churn as comapred to female two yearly customers
